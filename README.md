@@ -1,3 +1,9 @@
 # ModelingNeuralCircuits
 A repository containing modeling (models) of neural circuits in Python.
-Credit: Modeling Neural Circuits using Python by Robert Rosenbaum
+
+
+References: 
+
+Rosenbaum, Robert. Modeling Neural Circuits Made Simple with Python. MIT Press, 2024.
+
+
